@@ -1,0 +1,4 @@
+PropTypes are used to check our data/props that are being passed, to make sure the value is equal to the expected output. It helps to prevent mistakes when coding subsequently.
+Birth, Growth, and Death. Birth is the mounting phase , where the component is built. Growth, here is where the state of the components data is changed/altered. Death is once the component is reomved from the screen. 
+HOC is a component that can reuse another's component logic. It takes in a component, and returns a new component. So instead of just transitioning props into UI, a HOC transforms a component into another component. 
+1. CSS stylesheet: when you don't need to reuse styling, used for more complex apps. Inline styling: This is used when only wanting to addd just a few style properties. Styled-Components: When you want to reuse your style properties in the same file then this is the  perfect choice.
